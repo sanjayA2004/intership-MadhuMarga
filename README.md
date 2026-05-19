@@ -1,6 +1,7 @@
 # 🐝 MadhuMarga – Android App
 
 A modern Android application designed to help beekeepers manage hives efficiently. It allows you to track hive activity, monitor honey production, and receive smart suggestions for better hive maintenance.
+<img width="1918" height="1078" alt="Screenshot 2026-05-19 155808" src="https://github.com/user-attachments/assets/51f5a2b0-c1f9-4f8d-a059-ddf83432fd75" />
 
 ---
 
